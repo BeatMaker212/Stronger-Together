@@ -1,2 +1,2 @@
-# Stronger-Together
-Game File For Brackeys Game Jam 2020.1!
+# Real Life Among Us Board
+Game File
